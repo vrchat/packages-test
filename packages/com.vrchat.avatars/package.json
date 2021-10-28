@@ -7,7 +7,7 @@
 	"gitDependencies" : {
 		"com.vrchat.base" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.0"
 	},
-	"url" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.worlds#3.0.0",
+	"url" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.avatars#3.0.0",
 	"samples" : [
 		{
 			"displayName" : "AV3 Demo Assets",
