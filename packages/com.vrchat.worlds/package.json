@@ -10,7 +10,7 @@
 		"com.unity.textmeshpro" : "2.1.6"
 	},
 	"gitDependencies" : {
-		"com.vrchat.base" : "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.2"
+		"com.vrchat.base" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
 	},
 	"legacyFolders": {
 		"Assets\\VRCSDK": "b721be74f324daf4fb75aa5f06ee65f5"
@@ -18,7 +18,7 @@
 	"legacyFiles": {
 		"ProjectVersion.txt": ""
 	},
-	"url" : "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.worlds#3.0.2",
+	"url" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.worlds#3.0.2",
 	"samples" : [
 		{
 			"displayName" : "UdonExampleScene",
