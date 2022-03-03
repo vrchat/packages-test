@@ -8,7 +8,7 @@
 		"com.vrchat.base" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
 	},
 	"legacyFolders" : {
-		"Assets\\VRCSDK" : "515ff08df4e077d4d993a8f51262b2dc"
+		"Assets\\VRCSDK" : ""
 	},
 	"legacyFiles" : {
 		"ProjectVersion.txt" : ""

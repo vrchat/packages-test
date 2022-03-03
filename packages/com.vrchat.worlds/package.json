@@ -12,11 +12,14 @@
 	"gitDependencies" : {
 		"com.vrchat.base" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
 	},
-	"legacyFolders": {
-		"Assets\\VRCSDK": "b721be74f324daf4fb75aa5f06ee65f5"
+	"legacyFolders" : {
+		"Assets\\VRCSDK" : "",
+		"Assets\\Udon" : "",
+		"Assets\\VRChat Examples" : "",
+		"Packages\\com.vrchat.vrcsdk3" : ""
 	},
-	"legacyFiles": {
-		"ProjectVersion.txt": ""
+	"legacyFiles" : {
+		"ProjectVersion.txt" : ""
 	},
 	"url" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.worlds#3.0.2",
 	"samples" : [

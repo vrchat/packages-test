@@ -4,12 +4,6 @@
 	"version" : "3.0.2",
 	"unity" : "2019.4",
 	"description" : "Base for VRChat SDK",
-	"legacyFolders" : {
-		"Assets\\VRCSDK" : "515ff08df4e077d4d993a8f51262b2dc"
-	},
-	"legacyFiles" : {
-		"ProjectVersion.txt" : ""
-	},
 	"vrchatVersion" : "2022.1.1",
 	"url" : "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
 }
