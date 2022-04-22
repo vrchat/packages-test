@@ -1,7 +1,29 @@
 {
-  "name": "VRChat Official Packages",
+  "name": "VRChat Official Packages (Staging)",
   "author": "hello@vrchat.com",
   "packages": {
+    "com.vrchat.base": {
+      "versions": {
+        "3.0.2": {
+          "name": "com.vrchat.base",
+          "displayName": "VRChat SDK - Base",
+          "version": "3.0.2",
+          "unity": "2019.4",
+          "description": "Base for VRChat SDK",
+          "vrchatVersion": "2022.1.1",
+          "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
+        },
+        "3.0.0": {
+          "name": "com.vrchat.base",
+          "displayName": "VRChat SDK - Base",
+          "version": "3.0.0",
+          "unity": "2019.4",
+          "description": "Base for VRChat SDK",
+          "vrchatVersion": "2021.08.19.11.34",
+          "url": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.0"
+        }
+      }
+    },
     "com.vrchat.worlds": {
       "versions": {
         "3.0.0": {
@@ -104,28 +126,6 @@
               "path": "Samples~/AV3 Demo Assets"
             }
           ]
-        }
-      }
-    },
-    "com.vrchat.base": {
-      "versions": {
-        "3.0.2": {
-          "name": "com.vrchat.base",
-          "displayName": "VRChat SDK - Base",
-          "version": "3.0.2",
-          "unity": "2019.4",
-          "description": "Base for VRChat SDK",
-          "vrchatVersion": "2022.1.1",
-          "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.2"
-        },
-        "3.0.0": {
-          "name": "com.vrchat.base",
-          "displayName": "VRChat SDK - Base",
-          "version": "3.0.0",
-          "unity": "2019.4",
-          "description": "Base for VRChat SDK",
-          "vrchatVersion": "2021.08.19.11.34",
-          "url": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.0"
         }
       }
     }
