@@ -1,9 +1,9 @@
 ﻿name: VRChat Official Packages (Staging)
 author: hello@vrchat.com
 packages:
-  - https://raw.githubusercontent.com/vrchat/packages-test/3.0.0/packages/com.vrchat.worlds/package.json # Worlds 3.0.0
-  - https://raw.githubusercontent.com/vrchat/packages-test/3.0.0/packages/com.vrchat.base/package.json # Base 3.0.0
-  - https://raw.githubusercontent.com/vrchat/packages-test/3.0.0/packages/com.vrchat.avatars/package.json # Avatars 3.0.0
   - https://raw.githubusercontent.com/vrchat/packages-test/3.0.2/packages/com.vrchat.worlds/package.json # Worlds 3.0.2
   - https://raw.githubusercontent.com/vrchat/packages-test/3.0.2/packages/com.vrchat.base/package.json # Base 3.0.2
   - https://raw.githubusercontent.com/vrchat/packages-test/3.0.2/packages/com.vrchat.avatars/package.json # Avatars 3.0.2
+  - https://raw.githubusercontent.com/vrchat/packages-test/tree/2a078937c59bb517d9623eed9909b12e262324e7/packages/com.vrchat.worlds/package.json # Worlds 3.0.3
+  - https://raw.githubusercontent.com/vrchat/packages-test/tree/2a078937c59bb517d9623eed9909b12e262324e7/packages/com.vrchat.base/package.json # Base 3.0.3
+  - https://raw.githubusercontent.com/vrchat/packages-test/tree/2a078937c59bb517d9623eed9909b12e262324e7/packages/com.vrchat.avatars/package.json # Avatars 3.0.3
