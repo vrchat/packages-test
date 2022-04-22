@@ -1,4 +1,4 @@
-﻿name: VRChat Official Packages
+﻿name: VRChat Official Packages (Staging)
 author: hello@vrchat.com
 packages:
   - https://raw.githubusercontent.com/vrchat/packages-test/3.0.0/packages/com.vrchat.worlds/package.json # Worlds 3.0.0
