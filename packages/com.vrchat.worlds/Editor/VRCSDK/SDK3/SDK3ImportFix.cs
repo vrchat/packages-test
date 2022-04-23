@@ -63,7 +63,6 @@ namespace VRCSDK.SDK3.Editor
             }
         }
         
-        [MenuItem("VRChat SDK/Reload Plugins")]
         public static void Run()
         {
             if (Directory.Exists(packageRuntimePluginsFolder))
