@@ -16,7 +16,7 @@
             "email": "developer@vrchat.com",
             "url": "https://github.com/vrchat/packages"
           },
-          "url": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.2",
+          "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.3",
           "dependencies": {
             "com.unity.burst": "1.4.11",
             "com.unity.mathematics": "1.2.5"
@@ -35,43 +35,6 @@
     },
     "com.vrchat.worlds": {
       "versions": {
-        "3.0.3": {
-          "name": "com.vrchat.worlds",
-          "displayName": "VRChat SDK - Worlds",
-          "version": "3.0.3",
-          "unity": "2019.4",
-          "description": "Tools for creating interactive VRChat worlds using Udon",
-          "dependencies": {
-            "com.unity.cinemachine": "2.8.0",
-            "com.unity.postprocessing": "3.1.1",
-            "com.unity.textmeshpro": "2.1.6"
-          },
-          "gitDependencies": {
-            "com.vrchat.base": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.2"
-          },
-          "author": {
-            "name": "VRChat",
-            "email": "developer@vrchat.com",
-            "url": "https://github.com/vrchat/packages"
-          },
-          "legacyFolders": {
-            "Assets\\VRCSDK": "",
-            "Assets\\Udon": "",
-            "Assets\\VRChat Examples": "",
-            "Packages\\com.vrchat.vrcsdk3": ""
-          },
-          "legacyFiles": {
-            "ProjectVersion.txt": ""
-          },
-          "url": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.worlds#3.0.2",
-          "samples": [
-            {
-              "displayName": "UdonExampleScene",
-              "description": "Basic Udon Examples for Learning",
-              "path": "Samples~/UdonExampleScene"
-            }
-          ]
-        },
         "3.0.2": {
           "name": "com.vrchat.worlds",
           "displayName": "VRChat SDK - Worlds",
@@ -96,6 +59,43 @@
             "ProjectVersion.txt": ""
           },
           "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.worlds#3.0.2",
+          "samples": [
+            {
+              "displayName": "UdonExampleScene",
+              "description": "Basic Udon Examples for Learning",
+              "path": "Samples~/UdonExampleScene"
+            }
+          ]
+        },
+        "3.0.3": {
+          "name": "com.vrchat.worlds",
+          "displayName": "VRChat SDK - Worlds",
+          "version": "3.0.3",
+          "unity": "2019.4",
+          "description": "Tools for creating interactive VRChat worlds using Udon",
+          "dependencies": {
+            "com.unity.cinemachine": "2.8.0",
+            "com.unity.postprocessing": "3.1.1",
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {
+            "com.vrchat.base": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.3"
+          },
+          "author": {
+            "name": "VRChat",
+            "email": "developer@vrchat.com",
+            "url": "https://github.com/vrchat/packages"
+          },
+          "legacyFolders": {
+            "Assets\\VRCSDK": "",
+            "Assets\\Udon": "",
+            "Assets\\VRChat Examples": "",
+            "Packages\\com.vrchat.vrcsdk3": ""
+          },
+          "legacyFiles": {
+            "ProjectVersion.txt": ""
+          },
+          "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.worlds#3.0.3",
           "samples": [
             {
               "displayName": "UdonExampleScene",
@@ -139,7 +139,7 @@
           "unity": "2019.4",
           "description": "Our powerful Avatars 3.0 System",
           "gitDependencies": {
-            "com.vrchat.base": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.base#3.0.2"
+            "com.vrchat.base": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.base#3.0.3"
           },
           "author": {
             "name": "VRChat",
@@ -152,7 +152,7 @@
           "legacyFiles": {
             "ProjectVersion.txt": ""
           },
-          "url": "https://github.com/vrchat/packages.git?path=/packages/com.vrchat.avatars#3.0.2",
+          "url": "https://github.com/vrchat/packages-test.git?path=/packages/com.vrchat.avatars#3.0.3",
           "samples": [
             {
               "displayName": "AV3 Demo Assets",
