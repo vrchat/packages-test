@@ -16,6 +16,7 @@ namespace VRCSDK.SDK3.Editor
         private static readonly HashSet<string> _samplesToImport = new HashSet<string>()
         {
             "AV3 Demo Assets",
+            "Robot Avatar"
         };
         
         static SDK3AImportFix()

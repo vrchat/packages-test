@@ -24,6 +24,11 @@
 			"displayName" : "AV3 Demo Assets",
 			"description" : "Basic AV3 Demo Assets",
 			"path" : "Samples~/AV3 Demo Assets"
+		},
+		{
+			"displayName" : "Robot Avatar",
+			"description" : "Demo of Avatar Dynamics",
+			"path" : "Samples~/Dynamics/Robot Avatar"
 		}
 	]
 }
