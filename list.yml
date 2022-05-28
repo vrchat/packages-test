@@ -10,3 +10,6 @@ packages:
 - https://raw.githubusercontent.com/vrchat/packages-test/3.0.5/packages/com.vrchat.base/package.json
 - https://raw.githubusercontent.com/vrchat/packages-test/3.0.5/packages/com.vrchat.worlds/package.json
 - https://raw.githubusercontent.com/vrchat/packages-test/3.0.5/packages/com.vrchat.avatars/package.json
+- https://raw.githubusercontent.com/vrchat/packages-test/3.0.6/packages/com.vrchat.base/package.json
+- https://raw.githubusercontent.com/vrchat/packages-test/3.0.6/packages/com.vrchat.worlds/package.json
+- https://raw.githubusercontent.com/vrchat/packages-test/3.0.6/packages/com.vrchat.avatars/package.json
